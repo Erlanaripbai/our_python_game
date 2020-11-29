@@ -252,7 +252,7 @@ def Titles():
             a+=50
         end_y-=logo_velocity
         pygame.display.flip()
-        clock.tick(35)
+        clock.tick(20)
 # Skin variables
 
 x=240
